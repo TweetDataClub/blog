@@ -8,7 +8,6 @@ What time of day does Trump tweet? The answer is surprising: A huge fraction of 
 
 ![image](http://i.imgur.com/IiBw6HY.png){: .center-image}
 
-Blah
 
 | Hour   | Count (All Time) | Mass (All Time) | Count (L3W) | Mass (L3W) |
 |-------:|-----------------:|----------------:|------------:|-----------:|
