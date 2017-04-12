@@ -27,9 +27,9 @@ markdown:           kramdown
 # Navigation
 nav:
   - name:           "Subscribe"
-    href:           "//tweetdata.club"
+    href:           "https://tweetdataclub.github.io/site/"
   - name:           "Buy Data"
-    href:           "//tweetdata.club"
+    href:           "https://tweetdataclub.github.io/site/"
 
 # Sass
 sass:
