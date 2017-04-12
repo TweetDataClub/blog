@@ -19,6 +19,7 @@ twitter:
 baseurl:            ""
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title/
+paid_site_link:    "https://tweetdataclub.github.io/site/"
 
 # Markdown
 markdown:           kramdown
